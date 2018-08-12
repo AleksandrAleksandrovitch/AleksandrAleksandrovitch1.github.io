@@ -1,0 +1,73 @@
+html {
+	background: url(images/mj.jpg) no-repeat center center fixed;
+	min-height:100%;
+	background-size:cover;
+    background-size: cover;
+    
+
+
+	}
+#cont1{
+	position: absolute;
+	margin-top: 15%;
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-bottom: 50%;
+	width: 30%;
+	height: 350px;
+	
+	position: absolute;
+	background-image: linear-gradient(0, white, orange);
+	border-radius: 10%;
+	
+
+}
+#ph{
+	
+	
+	 font-size: 3vw;
+	margin-left: 27%;
+	margin-right: 13%;
+	max-width: 60%;
+}
+
+
+*#im1{
+	margin-top: 15%;
+	margin-left: 10%;
+}
+#im2{
+	margin-left: 10%;
+}
+
+#im3{
+	margin-left: 10%;
+}
+#im4{
+	margin-left: 5%;
+}
+
+
+
+}
+
+#box{
+ margin-left: 22%;
+ margin-top: 20%;
+}
+#im1:hover {
+
+	opacity: 0.5;
+}
+#im2:hover {
+
+	opacity: 0.5;
+}
+#im3:hover {
+
+	opacity: 0.5;
+}
+#im4:hover {
+
+	opacity: 0.5;
+}
